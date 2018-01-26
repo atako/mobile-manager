@@ -4,6 +4,7 @@
     "semi": [
       "error",
       "never"
-    ]
+    ],
+    "arrow-body-style": 0
   }
 }
